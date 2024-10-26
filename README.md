@@ -6,4 +6,4 @@ My previous experiences include developing a Natural Language Processing (NLP) m
 
 If you're on a similar journey, or if the realms of machine learning, genomics, and data science excite you, let's connect! 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amrsalm&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrsalm)](https://github.com/anuraghazra/github-readme-stats)
