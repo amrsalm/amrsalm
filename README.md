@@ -6,4 +6,4 @@ My previous experiences include developing a Natural Language Processing (NLP) m
 
 If you're on a similar journey, or if the realms of machine learning, genomics, and data science excite you, let's connect! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrsalm&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
