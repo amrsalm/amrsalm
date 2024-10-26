@@ -6,6 +6,6 @@ My previous experiences include developing a Natural Language Processing (NLP) m
 
 If you're on a similar journey, or if the realms of machine learning, genomics, and data science excite you, let's connect! 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=pytorch,py,r,tensorflow,js,aws,c,cpp,emacs,gcp,github,git,java,matlab,mysql,mongodb,html,css,wasm&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,py,r,tensorflow,sklearn,js,aws,c,cpp,emacs,gcp,github,git,java,matlab,mysql,mongodb,html,css,wasm&perline=10)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrsalm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
