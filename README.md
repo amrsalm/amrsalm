@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-Currently, I'm engrossed in a project focused on creating a deep learning-based Polygenic Risk Score (PRS) model for urolithiasis. This endeavor is not just about predictive analytics; it's about paving the way for personalized medicine and tailored healthcare interventions.
+💻 **Current Project:** I’m working on a deep learning-based **Polygenic Risk Score (PRS) model** for urolithiasis. This project combines machine learning and genomics to make strides in personalized medicine, helping to create tailored healthcare solutions.
 
-My previous experiences include developing a Natural Language Processing (NLP) model designed to bridge the gap between disparate biomedical ontologies, such as linking ICD codes to Human Phenotype Ontology (HPO) terms. This work is crucial for enhancing the interoperability of medical data and fostering a more integrated approach to patient care.
+📈 **Natural History Analysis:** As part of my research, I’m studying the **natural history of kidney stone disease** to uncover how genetic and environmental factors interact over time. This work aids in understanding disease progression, informing preventative strategies, and refining treatment plans.
 
-If you're on a similar journey, or if the realms of machine learning, genomics, and data science excite you, let's connect! 
+🧬 **NLP in Biomedical Data:** I’ve developed an **NLP model** that links ICD codes to Human Phenotype Ontology (HPO) terms, bridging gaps between different biomedical data standards. This project improves medical data interoperability, supporting a more integrated approach to patient care.
+
+🚀 If you’re interested in **machine learning, genomics, or data science**, let’s connect!
+
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=pytorch,py,r,tensorflow,sklearn,js,aws,c,cpp,emacs,gcp,github,git,java,matlab,mysql,mongodb,html,css,wasm&perline=10)](https://skillicons.dev)
 
