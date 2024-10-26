@@ -6,4 +6,4 @@ My previous experiences include developing a Natural Language Processing (NLP) m
 
 If you're on a similar journey, or if the realms of machine learning, genomics, and data science excite you, let's connect! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrsalm)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amrsalm&theme=tokyonight)](https://git.io/streak-stats)
